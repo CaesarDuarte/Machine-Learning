@@ -17,7 +17,7 @@ Here is a brief summary of the folders mentioned above:
 
 In addition to my Data Science projects, I have several other repositories that showcase my skills and interests in several related fields:
 
-- [Data Science](https://github.com/CaesarDuarte/Machine-Learning): Projects focused on detailed analyses, data cleaning, preprocessing, and feature engineering. These projects showcase my ability to extract insights from complex datasets and create effective visualizations.
+- [Data Science](https://github.com/CaesarDuarte/Data-Science): Projects focused on detailed analyses, data cleaning, preprocessing, and feature engineering. These projects showcase my ability to extract insights from complex datasets and create effective visualizations.
 - [Computer Vision](https://github.com/CaesarDuarte/Computer-Vision): Projects focused on image processing, object detection, and facial recognition using advanced computer vision techniques.
 - [Natural Language Processing (NLP)](https://github.com/CaesarDuarte/NLP-Natural-Language-Processing): Exploration of NLP techniques, including sentiment analysis, text generation, and language translation. 
 - [Recommendation Systems](https://github.com/CaesarDuarte/Recommender-System): Development of systems that provide personalized recommendations for users, such as product or movie suggestions.
